@@ -570,7 +570,7 @@ async def set_password_zip(message):
             await message.reply(f"Cannot update the password this is not your download.")
 
 async def start_handler(event):
-    msg = "Hello This is TorToolkit an instance of <a href='https://github.com/yash-dk/TorToolkit-Telegram'>This Repo</a>. Try the repo for yourself and dont forget to put a STAR and fork."
+    msg = "HELLO THIS IS WINTERLEECHER | CLICK HERE 👉  <a href='https://telegra.ph/WINTERLEECHER-HELP-03-06'>WINTERLEECHER HELP</a>."
     await event.reply(msg, parse_mode="html")
 
 
@@ -688,7 +688,7 @@ async def about_me(message):
     diff = Human_Format.human_readable_timedelta(diff)
 
     msg = (
-        "<b>Name</b>: <code>TorToolkit</code>\n"
+        "<b>Name</b>: <code>WINTERLEECHER</code>\n"
         f"<b>Version</b>: <code>{__version__}</code>\n"
         f"<b>Telethon Version</b>: {telever}\n"
         f"<b>Pyrogram Version</b>: {pyrover}\n"
